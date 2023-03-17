@@ -1,1 +1,2 @@
 # spring_seminar_2023
+spring_seminar_202 の課題をここに提出してください
